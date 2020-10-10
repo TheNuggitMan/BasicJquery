@@ -1,0 +1,27 @@
+[
+  {
+    "firstName": "john",
+    "lastName": "Wilson",
+    "email":"JWilson@hotmail.com"
+  },
+  {
+    "firstName": "Al",
+    "lastName": "Smith",
+    "email":"Asmithn@outlook.com"
+  },
+  {
+    "firstName": "Beth",
+    "lastName": "Carryson",
+    "email":"BethFairy@gmail.com"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Artist",
+    "email":"JMusic@hotmail.com"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Wilson",
+    "email":"LauBeanWilson@hotmail.com"
+  }
+]
